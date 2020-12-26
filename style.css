@@ -1,14 +1,8 @@
-h1 {
-    font-weight: bold;
-    text-decoration: silver dotted;
-    color: silver;
-    padding: 0.2em;
-    border: ridge;
-    background-color: rgb(0, 0, 0);
+body{
+ color: white;
+ background-color: black;
 }
-body {
-    color: white;
-    font-size: 16px;
-    background-color: black;
-    
+h1 {
+ color: Red;
+ font-size: 16px;
 }
